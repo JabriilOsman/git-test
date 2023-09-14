@@ -1,2 +1,3 @@
 # git-test
-Bare en Git test
+Dette er min forste github repo
+Hello Odin
